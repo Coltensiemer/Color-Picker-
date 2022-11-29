@@ -1,0 +1,38 @@
+main { 
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 0 ;
+    padding: 0;
+}
+
+.display-color { 
+
+width: 250x;
+height: 250px;
+border: 2px black solid; 
+padding: 10px 
+
+   
+}
+
+
+
+
+
+/* COLOR BOXES  */
+.color-option-boxes { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+    padding: 2em;
+
+} 
+
+.color-slider { 
+    border: 2px black solid; 
+    width: 600px;
+    height: 50px;
+}
+
